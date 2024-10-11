@@ -1,3 +1,6 @@
+// Write and test your code in a JavaScript file.Ensure that all exercises have the correct input/output.
+
+
 // question 1: Given an array of numbers, use map() to create a new array with the squares of each number.
 function squareNumbers(arr) {
     return arr.map(num => num * num); // Simple square each number
@@ -30,5 +33,5 @@ function squareNumbers(arr) {
   console.log(sumOfNumbers([5, 10, 15, 20]));   // Expected Output: 50
 
   console.log(sumOfSquaredEvenNumbers([1, 2, 3, 4, 5]));  // Expected Output: 20
-  
+
   
